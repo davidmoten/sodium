@@ -224,3 +224,8 @@ info.plist
 
 # Scala
 target/
+
+# Eclipse metadata
+.project
+.classpath
+.settings
